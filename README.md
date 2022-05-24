@@ -29,7 +29,14 @@ _This is an italic text_
 
 ### bold text
 
-**This is an italic text**
+**follow this step:**</br>
+**1.git init**</br>
+**2.git add.**</br>
+**3.git commit -m "Add all my files**</br>
+**4.git remote add origin https://github.com/yourusername/your-repo-name.git**</br>
+**5.git pull origin master**</br>
+**6.git push origin master**</br>
+
 
 <br/>
 
